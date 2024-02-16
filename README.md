@@ -25,7 +25,7 @@ This Next.js frontend application leverages The Graph Client to query data from 
 
 ```bash
 git clone https://github.com/marcusats/pools-visualizer.git
-cd your-frontend-repo
+cd pools-visualizer
 ```
 
 
