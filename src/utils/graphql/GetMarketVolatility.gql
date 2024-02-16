@@ -1,0 +1,13 @@
+
+query GetMarketVolatility {
+  marketVolatilities(
+    orderBy: id
+    orderDirection: asc
+    skip: 10
+    where: {totalVolatility_lt: "0.1"}
+  ) {
+    id
+    totalVolatility
+  }
+}
+

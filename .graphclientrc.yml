@@ -1,0 +1,9 @@
+sources: 
+  - name: uniswap-eth-usdc-analyzer
+    handler: 
+      graphql:
+        endpoint: https://api.thegraph.com/subgraphs/name/marcusats/uniswap-eth-usdc-analyzer
+documents:
+  - ./src/utils/graphql/GetDailyStats.gql
+  - ./src/utils/graphql/GetUserActivity.gql
+  - ./src/utils/graphql/GetMarketVolatility.gql

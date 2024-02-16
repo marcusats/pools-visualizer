@@ -1,0 +1,11 @@
+query GetUserActivity {
+  userActivities(
+    skip: 50
+    first: 30
+    where: {numberOfSwaps_gte: "3", numberOfSwaps_lt: "96"}
+  ) {
+    id
+    numberOfSwaps
+    totalVolume
+  }
+}
