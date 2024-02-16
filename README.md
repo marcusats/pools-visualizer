@@ -1,5 +1,7 @@
 # Next.js Frontend for Uniswap V3 Analytics
 
+![Frontend Demo](./frontend.gif)
+
 ## Overview
 
 This Next.js frontend application leverages The Graph Client to query data from the Uniswap V3 Analytics Subgraph. Designed to provide insightful analysis of Ethereum and USDC pair activities on Uniswap V3, it features real-time data visualization of market trends, user activities, and liquidity metrics. The frontend showcases the power of GraphQL for delivering complex data in an easily digestible format.
