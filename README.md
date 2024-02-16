@@ -4,8 +4,7 @@
 
 ## Overview
 
-This Next.js frontend application leverages The Graph Client to query data from the Uniswap V3 Analytics Subgraph. Designed to provide insightful analysis of Ethereum and USDC pair activities on Uniswap V3, it features real-time data visualization of market trends, user activities, and liquidity metrics. The frontend showcases the power of GraphQL for delivering complex data in an easily digestible format.
-
+This Next.js frontend application leverages The Graph Client to query data from the Uniswap V3 Analytics Subgraph. Designed to provide insightful analysis of Ethereum and USDC pair activities on Uniswap V3, it features real-time data visualization of market trends and user activities.
 ## Features
 
 - **Real-Time Analytics**: Explore up-to-date statistics on ETH-USDC swaps, liquidity, and market volatility.
@@ -25,7 +24,7 @@ This Next.js frontend application leverages The Graph Client to query data from 
 1. **Clone the project repository**
 
 ```bash
-git clone https://github.com/your-username/your-frontend-repo.git
+git clone https://github.com/marcusats/pools-visualizer.git
 cd your-frontend-repo
 ```
 
