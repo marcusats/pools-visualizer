@@ -1,4 +1,4 @@
-# Next.js Frontend for Uniswap V3 Analytics
+# Frontend for Uniswap V3 Analytics
 
 ![Frontend Demo](./frontend.gif)
 
